@@ -28,7 +28,7 @@ export default {
     {
       file: 'dist/main.bundle.js',
       format: 'umd',
-      name: 'roller',
+      name: 'rulla',
       sourcemap: true
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "name": "roller",
+  "name": "rulla",
   "version": "1.0.0",
   "description": "Simple Rollup setup",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "test": "mocha",
     "prepublish": "npm test"
   },
-  "repository": "github.com/johnie/roller",
+  "repository": "github.com/johnie/rulla",
   "keywords": [
     "es6",
     "modules",
@@ -22,7 +22,7 @@
   "author": "Johnie Hjelm <j@hjelm.im>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/johnie/roller/issues"
+    "url": "https://github.com/johnie/rulla/issues"
   },
   "files": [
     "lib",
