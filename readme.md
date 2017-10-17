@@ -10,3 +10,7 @@ Example of a simple Rollup configuration. Rollup will watch for changes and auto
 2. Develop `npm start`
 2. Build for production `npm run build`
 3. Test `npm run test`
+
+## License
+
+MIT © [Johnie Hjelm](https://johnie.com)
